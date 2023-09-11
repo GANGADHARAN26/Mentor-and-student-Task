@@ -1,0 +1,12 @@
+1.create student
+https://mentor-and-student-assign-task.onrender.com/mentors/add
+2.create mentor
+https://mentor-and-student-assign-task.onrender.com/student/create
+3.assign student and mentor
+https://mentor-and-student-assign-task.onrender.com/student/assignMentor
+4.assign for multiple students
+https://mentor-and-student-assign-task.onrender.com/student/multipleAssign
+5.all students for particular mentor
+https://mentor-and-student-assign-task.onrender.com/student/getStudents/:mentorName
+6.show previous mentors for particular student
+https://mentor-and-student-assign-task.onrender.com/student/previousMentors/:Name
